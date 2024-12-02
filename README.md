@@ -6,12 +6,12 @@
 |     1| Python    |
 |     2| C,C++     |
 |     3| Javascript|
-#Target
+## Target
 - [ ] Have Ielts 7.5
 - [ ] Have Janpanese N3
 - [ ] Can code fullstack
 - [ ] Learn more langage
-#Moviation
+## Moviation
 >The important thing is not to stop questioning. Curiosity has its own reason for existing.
 
 -Albert Einstein
