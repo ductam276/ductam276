@@ -1,6 +1,7 @@
 # About me
 - Currently studing at [HOU](https://hou.edu.vn/en_US/#googtrans(vi|en))
--Love CAT 🐱
+
+- Love CAT 🐱
 
 | Rank | Languages |
 |-----:|-----------|
