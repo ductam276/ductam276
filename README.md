@@ -1,2 +1,3 @@
-# ductam276
-This include some information about me
+# About me
+I love coding, and learn new things
+[discord]
