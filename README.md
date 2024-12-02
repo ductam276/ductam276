@@ -1,11 +1,14 @@
 # About me
 - Currently studing at [HOU](https://hou.edu.vn/en_US/#googtrans(vi|en))
 -Love CAT 🐱
+
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
 |     2| C,C++     |
 |     3| Javascript|
+
+
 ## Target
 - [ ] Have Ielts 7.5
 - [ ] Have Janpanese N3
