@@ -10,13 +10,13 @@
 |     3| Javascript|
 |     4| Kotlin    |
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ductam276&show_icons=true&locale=en" alt="ductam276" /></p>
+##Contact
 
-## Target
+
+# Target
 - [ ] Have Ielts 7.5
 - [ ] Have Janpanese N3
 - [ ] Can code fullstack
 - [ ] Learn more langage
-## Moviation
->The important thing is not to stop questioning. Curiosity has its own reason for existing.
 
--Albert Einstein
