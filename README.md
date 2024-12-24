@@ -14,7 +14,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ductam276&show_icons=true&locale=en" alt="ductam276" /></p>
 
 ## Contact
-- Email: [leductam560@gmail.com](mailto:leductam560@gmail.com)
+- Email: leductam560@gmail.com
 
 # Target
 - [ ] Have Ielts 7.5
