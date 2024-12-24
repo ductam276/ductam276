@@ -10,7 +10,9 @@
 |     3| Javascript|
 |     4| Kotlin    |
 
+![](https://komarev.com/ghpvc/?username=ductam276&color=blue&abbreviated=true)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ductam276&show_icons=true&locale=en" alt="ductam276" /></p>
+
 ##Contact
 
 
