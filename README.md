@@ -20,5 +20,5 @@
 - [ ] Have Ielts 7.5
 - [ ] Have Janpanese N3
 - [ ] Can code fullstack
-- [ ] Learn more langage
+- [ ] Learn more languages
 
