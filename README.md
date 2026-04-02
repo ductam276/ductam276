@@ -11,7 +11,7 @@
 |     4| Kotlin    |
 
 ![](https://komarev.com/ghpvc/?username=ductam276&color=blue&abbreviated=true)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ductam276&show_icons=true&locale=en" alt="ductam276" /></p>
+<p>&nbsp;<img align="center" src="https://avatars.githubusercontent.com/u/96615225?s=400&u=ece9f465a197e78134986dd46f13740c877a54e4&v=4&show_icons=true&locale=en" alt="ductam276" /></p>
 
 ## Contact
 - Email: leductam560@gmail.com
